@@ -1,0 +1,27 @@
+{
+    "users":[
+        {
+            "user":"janmejaya",
+            "password":"123456"
+        },
+        {
+            "user":"John",
+            "password":"999999"
+        }
+    ],
+    "employees":[
+        {
+            "id":101,
+            "name":"John",
+            "desg":"Manager",
+            "dept":"IT",
+            "sal":10000
+        },{
+            "id":102,
+            "name":"Bob",
+            "desg":"Developer",
+            "dept":"IT",
+            "sal":20000
+        }
+    ]
+}

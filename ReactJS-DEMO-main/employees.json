@@ -1,0 +1,24 @@
+{
+  "users":[
+    {
+        "user":"janmejaya",
+        "password":"123456"
+    },
+    {
+        "user":"John",
+        "password":"999999"
+    }
+],
+  "employees": [
+    {
+      "name": "John",
+      "dept": "HR",
+      "id": 1
+    },
+    {
+      "name": "Janmejaya",
+      "dept": "IT",
+      "id": 2
+    }
+  ]
+}
